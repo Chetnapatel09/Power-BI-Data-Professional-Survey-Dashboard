@@ -9,7 +9,7 @@ The dashboard helps explore trends in the data industry and understand how diffe
 
 ## 🖥️ Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 ---
 
